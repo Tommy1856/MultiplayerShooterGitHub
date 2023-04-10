@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Material Name="cockpit_screens"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/cockpit_screens1.cockpit_screens1"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=53229B1941BB33F7D61893BFAB377B0E
+      Material=Material'"cockpit_screens"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=96364B71490061DF4495BFBD0E1BA897
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/cockpit_screens1.cockpit_screens1"'),QualityLevelsUsed=(False,True,False))
+   ReferencedTextureGuids(0)=310E2F794FB23BF1971995AABB19748D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=FF8C7CD9417AB11C4FD6BF9506FD71ED
+End Object

@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Material Name="cockpit_joystick"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/cockpit_joystick1.cockpit_joystick1"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=1D114E304AA823917A2FC4A8033CC9C1
+      Material=Material'"cockpit_joystick"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=46EFBFCD47DFD983D9DB57900FD403A7
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/cockpit_joystick1.cockpit_joystick1"'),QualityLevelsUsed=(False,True,False))
+   ReferencedTextureGuids(0)=C05C8B674F376CA734CF7DB5908EA32C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B8B292B642DAB91E62BA7E9F916BDF5B
+End Object

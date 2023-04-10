@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Material Name="gunship_wings"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/gunship_2_d.gunship_2_d"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=FEEE46FE40E1AEE93D9BD9BF7D3AFF40
+      Material=Material'"gunship_wings"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=41525FC74BB28A156F95F1B13951BCF0
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/AnimStarterPack/Vehicles/LAAT/LAATMaterials/gunship_2_d.gunship_2_d"'),QualityLevelsUsed=(False,True,False))
+   ReferencedTextureGuids(0)=1742C26642A9616D2676D1BC89183950
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=75E607084CD288BA2CDA679A55934319
+End Object
